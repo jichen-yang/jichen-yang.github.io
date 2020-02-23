@@ -1,0 +1,16 @@
+body{
+	width: 70%; 
+	margin: auto;
+}
+
+td{
+	vertical-align: top;
+}
+
+a{
+	color: blue;
+}
+
+a:hover{
+	color: red;
+}
