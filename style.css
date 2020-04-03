@@ -4,14 +4,64 @@ body{
 	font-family: Verdana, Geneva, sans-serif;
 }
 
-td{
-	vertical-align: top;
+/*table*/
+
+table{
+	width: 100%;
+	border-collapse: collapse;
 }
 
+td{
+	vertical-align: top;
+	padding: 6px 0px;
+}
+
+tr:nth-child(even){
+	background-color: #e6e6e6;
+}
+
+/*links*/
+
 a{
-	color: blue;
+	color: #0000CD;
+	text-decoration: none;
 }
 
 a:hover{
 	color: red;
+	text-decoration: none;
 }
+
+/*top navigator*/
+
+.topnav{
+	overflow: hidden;
+	font-size: 105%;
+	font-weight: bold;
+	background-color: #d9d9d9;
+}
+
+.topnav a{
+	float: left;
+	padding: 5px 15px;
+	color: black;
+}
+
+.topnav a:hover{
+	background-color: #0000CD;
+	color: white;
+}
+
+.topnav a.active{
+	background-color: #0000CD;
+	color: white;
+}
+
+/*footer*/
+
+footer{
+	font-size: 90%;
+	text-align: center;
+}
+
+
