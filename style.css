@@ -4,6 +4,7 @@ body{
 	font-family: Verdana, Geneva, sans-serif;
 }
 
+
 /*table*/
 
 table{
@@ -20,6 +21,7 @@ tr:nth-child(even){
 	background-color: #e6e6e6;
 }
 
+
 /*links*/
 
 a{
@@ -32,6 +34,7 @@ a:hover{
 	text-decoration: none;
 }
 
+
 /*top navigator*/
 
 .topnav{
@@ -42,7 +45,8 @@ a:hover{
 
 .topnav a{
 	float: left;
-	padding: 4px 15px;
+	line-height: 30px;
+	padding: 0px 15px;
 	color: black;
 }
 
@@ -55,6 +59,13 @@ a:hover{
 	background-color: #0000CD;
 	color: white;
 }
+
+.lang{
+	float: right;
+	font-size: 75%;
+	font-weight: normal;
+}
+
 
 /*footer*/
 
