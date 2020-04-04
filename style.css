@@ -14,7 +14,7 @@ table{
 
 td{
 	vertical-align: top;
-	padding: 6px 0px;
+	line-height: 34px;
 }
 
 tr:nth-child(even){
