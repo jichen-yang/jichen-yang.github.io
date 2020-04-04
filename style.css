@@ -1,5 +1,6 @@
 body{
-	width: 70%; 
+	width: 90%;
+	max-width: 800px; 
 	margin: auto;
 	font-family: Verdana, Geneva, sans-serif;
 }
@@ -67,11 +68,39 @@ a:hover{
 }
 
 
+/*main in homepage*/
+.main{
+	float: left;
+	width: 75%;
+}
+
+/*fig in homepage*/
+.fig{
+	float: right;
+	width: 25%;
+	padding: 30px 0px 0px 0px;
+}
+
+@media only screen and (max-width: 640px) {
+  /* For mobile phones: */
+	.topnav a{
+		width: 100%;
+	}
+	.lang{
+		width: 100%;
+	}
+	.main, .fig{
+		width: 100%;
+	}
+}
+
 /*footer*/
 
-footer{
+.footer{
 	font-size: 90%;
 	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 10px;
 }
 
 
