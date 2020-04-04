@@ -78,7 +78,7 @@ a:hover{
 .fig{
 	float: right;
 	width: 25%;
-	padding: 30px 0px 0px 0px;
+	padding: 70px 0px 10px 0px;
 }
 
 @media only screen and (max-width: 640px) {
@@ -89,8 +89,12 @@ a:hover{
 	.lang{
 		width: 100%;
 	}
-	.main, .fig{
+	.main{
 		width: 100%;
+	}
+	.fig{
+		width: 100%;
+		padding: 30px 0px 10px 0px;
 	}
 }
 
