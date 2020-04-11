@@ -68,6 +68,12 @@ a:hover{
 }
 
 
+/*header*/
+.head{
+	height: 65px;
+}
+
+
 /*main in homepage*/
 .main{
 	float: left;
