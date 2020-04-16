@@ -13,9 +13,9 @@ table{
 	border-collapse: collapse;
 }
 
-td{
+tr{
 	vertical-align: top;
-	line-height: 34px;
+	line-height: 35px;
 }
 
 tr:nth-child(even){
@@ -46,7 +46,7 @@ a:hover{
 
 .topnav a{
 	float: left;
-	line-height: 30px;
+	line-height: 35px;
 	padding: 0px 15px;
 	color: black;
 }
