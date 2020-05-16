@@ -84,7 +84,7 @@ a:hover{
 .fig{
 	float: right;
 	width: 25%;
-	padding: 70px 0px 10px 0px;
+	padding: 40px 0px 10px 0px;
 }
 
 @media only screen and (max-width: 640px) {
