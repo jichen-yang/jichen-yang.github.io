@@ -3,6 +3,7 @@ body{
 	max-width: 800px; 
 	margin: auto;
 	font-family: Verdana, Geneva, sans-serif;
+	margin-bottom: 30px;
 }
 
 
@@ -109,8 +110,7 @@ a:hover{
 .footer{
 	font-size: 90%;
 	text-align: center;
-	margin-top: 40px;
+	margin-top: 60px;
 	margin-bottom: 10px;
 }
-
 
