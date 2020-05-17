@@ -77,14 +77,14 @@ a:hover{
 /*main in homepage*/
 .main{
 	float: left;
-	width: 75%;
+	width: 65%;
 }
 
 /*fig in homepage*/
 .fig{
 	float: right;
-	width: 25%;
-	padding: 40px 0px 10px 0px;
+	width: 35%;
+	padding: 55px 0px 10px 0px;
 }
 
 @media only screen and (max-width: 640px) {
@@ -99,8 +99,8 @@ a:hover{
 		width: 100%;
 	}
 	.fig{
-		width: 70%;
-		padding: 30px 15% 10px 15%;
+		width: 100%;
+		padding: 30px 0% 0px 0%;
 	}
 }
 
