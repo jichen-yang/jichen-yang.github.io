@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Jichen Yang (杨季琛) | Homepage</title>
+
+<meta name="author" content="Jichen Yang" >
+
+<meta name="description" content="Jichen Yang is a PhD student in mathematics at the University of Bremen, Germany.">
+
+<meta name="keywords" content="Jichen Yang, mathematics, University of Bremen, Universität Bremen, Bremen, Germany, applied analysis, nonlinear dynamics, dynamics, MZH, mzh, Jens Rademacher, reaction-subdiffusion, fractional, dynamical systems, 杨季琛, 德国, 不来梅, 不莱梅, 数学">
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="shortcut icon" href="fig/favicon.ico" type="image/x-icon" />
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<div class="head">
+	<h1>Jichen Yang</h1>
+</div>
+
+
+<div class="topnav">
+	<a class="active" href="index.html">Home</a>
+	<a href="research.html">Research</a>
+	<a href="publications.html">Publications</a>
+	<a href="cv.html">CV</a>
+	<div class="lang">
+		<a href="cn/index.html">中文</a>
+	</div>
+</div>
+
+<div class="fig">
+	<img src="fig/portrait.jpg" alt="Portrait of Jichen Yang" style="float:right; max-width:100%; height:auto;">
+</div>
+
+
+<div class="main">
+
+<p>
+	PhD student<br>
+	<a href="https://www.uni-bremen.de/appanalysis/" target="_blank">Applied Analysis Group</a>
+</p>
+
+<p style="padding:5px 0 0">
+	<a href="https://www.uni-bremen.de/en/" target="_blank">University of Bremen</a><br>
+	<a href="https://www.uni-bremen.de/en/fb3/" target="_blank">Faculty 3 - Mathematics</a><br>
+	Bibliothekstrasse 5<br>
+	28359 Bremen<br>
+	Germany
+</p>
+
+<p style="padding:5px 0 0">
+	Office: <a href="https://www.uni-bremen.de/en/university/campus/campus-map/gebaeude/building/116/" target="_blank">MZH</a> / <a href="https://oracle-web.zfn.uni-bremen.de/web/p_ebenen_ansicht?pi_raum_id=8711&pi_raumnummer=4110" target="_blank">4110</a><br>
+	Phone: +49-421-218-63743<br>
+	Email: <span>jya<span style="display:none">remove</span>ng@uni-br<span style="display:none">remove</span>emen.de</span>
+</p>
+
+</div>
+
+
+</body>
+</html>
+
+
+
