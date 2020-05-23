@@ -11,17 +11,18 @@ body{
 
 table{
 	width: 100%;
-	border-collapse: collapse;
+	border-collapse: separate;
+	border-spacing: 0px 15px;
 }
 
 tr{
 	vertical-align: top;
-	line-height: 35px;
 }
 
-tr:nth-child(even){
+/*tr:nth-child(even){
 	background-color: #e6e6e6;
-}
+}*/
+
 
 
 /*links*/
